@@ -1,8 +1,8 @@
 <?php
 // Definir variables con tu información personal
-$nombre = "Tu Nombre Completo"; // Reemplaza con tu nombre
-$nombreCuenta = "TuNombreCuenta"; // Reemplaza con tu nombre de cuenta
-$materia = "Nombre de la Materia"; // Reemplaza con el nombre de tu materia
+$nombre = "Alan Azael Del Angel Rivera"; // Reemplaza con tu nombre
+$nombreCuenta = "L-20660050"; // Reemplaza con tu nombre de cuenta
+$materia = "Cloud computing"; // Reemplaza con el nombre de tu materia
 
 // Obtener la hora actual para el saludo dinámico
 $hora = date("H");
